@@ -1,4 +1,4 @@
 
-![apple_logo-512.png](http://something)
+![apples](/apple_logo-512.png)
 
-![windows-512.png](http://something)
+![windows](/windows-512.png)
